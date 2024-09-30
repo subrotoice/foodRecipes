@@ -1,0 +1,22 @@
+{
+  "meals": [
+    {
+      "idMeal": "52795",
+      "strMeal": "Chicken Handi",
+      "strDrinkAlternate": null,
+      "strCategory": "Chicken"
+    },
+    {
+      "idMeal": "52795",
+      "strMeal": "Chicken Handi",
+      "strDrinkAlternate": null,
+      "strCategory": "Chicken"
+    },
+    {
+      "idMeal": "52795",
+      "strMeal": "Chicken Handi",
+      "strDrinkAlternate": null,
+      "strCategory": "Chicken"
+    }
+  ]
+}
